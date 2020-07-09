@@ -1,4 +1,4 @@
 
-Sample Java Applicaiton by Sandeep PASTE
+Sample Java Applicaiton by Sandeep Paste
 
 
